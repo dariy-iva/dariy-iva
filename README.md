@@ -15,7 +15,7 @@
 
 ### 🛠 Мой стек: 
 
-HTML, CSS, JS, React, VSCode, Node.js, Express, MongoDB, Figma, Git
+HTML, CSS, JS, React, VSCode, Node.js, Express, MongoDB, Figma, Git, Vue.js, WebStorm
 | <img src="./images/html.svg" alt="html" /> | <img src="./images/css.svg" alt="css"/> | <img src="./images/javascript.svg" alt="js" /> | <img src="./images/react.svg" alt="react" /> | <img src="./images/vs-code.svg" alt="vs-code" /> |
 |:---:|:---:|:---:|:---:|:---:|
 
